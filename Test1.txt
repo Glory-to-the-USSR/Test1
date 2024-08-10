@@ -1,1 +1,2 @@
 print("Glory to the USSR!")
+print("How are you");
