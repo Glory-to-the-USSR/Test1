@@ -1,2 +1,1 @@
 print("Glory to the USSR!")
-print("Bebra bobr")
